@@ -1,4 +1,3 @@
+const fetchGet = require("./fetch.js");
 
-
-const a = require('./dataTime.js');
-console.log(a());
+console.log(fetchGet());
