@@ -1,3 +1,7 @@
-const fetchGet = require("./fetch.js");
+const creator = require("./creatorFolder");
 
-console.log(fetchGet());
+console.log(creator());
+
+// const readFile = require('./readFile')
+
+// console.log(readFile());
