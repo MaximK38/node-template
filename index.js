@@ -1,4 +1,3 @@
+const create = require("./createA");
 
-
-const a = require('./dataTime.js');
-console.log(a());
+console.log(create);
