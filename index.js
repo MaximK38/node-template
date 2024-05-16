@@ -1,7 +1,3 @@
-const creator = require("./creatorFolder");
+const create = require("./createA");
 
-console.log(creator());
-
-// const readFile = require('./readFile')
-
-// console.log(readFile());
+console.log(create);
